@@ -1,0 +1,30 @@
+2021-12-08 21:35:34 INFO  Reflections:232 -- Reflections took 3075 ms to scan 84 urls, producing 10086 keys and 54291 values 
+h2021-12-08 21:35:38 INFO  Reflections:232 -- Reflections took 3234 ms to scan 84 urls, producing 10009 keys and 45758 values 
+h2021-12-08 21:35:51 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:35:52 INFO  BaseTest:22 -- Uygulama acildi
+h2021-12-08 21:35:52 INFO  BaseTest:27 -- Alisveris butonuna tiklandi
+h2021-12-08 21:35:56 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:35:56 INFO  BaseTest:14 -- Alisveris butonuna tiklandi
+h2021-12-08 21:35:56 INFO  BaseTest:19 -- Kategori butonuna tiklandi
+h2021-12-08 21:36:00 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:00 INFO  BaseTest:12 -- Kategori butonuna tiklandi
+h2021-12-08 21:36:04 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:04 INFO  BaseTest:18 -- Pantolon tiklandi
+h2021-12-08 21:36:08 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:21 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:25 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:25 INFO  BaseTest:43 -- Urun detay  sayfasi acildi
+h2021-12-08 21:36:25 INFO  BaseTest:48 -- Favori butonuna tiklandi
+h2021-12-08 21:36:29 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:29 INFO  BaseTest:19 -- Login sayfasi acildi
+h2021-12-08 21:36:34 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:38 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:39 INFO  BaseTest:36 -- Geri butonuna tiklandi
+h2021-12-08 21:36:40 INFO  BaseTest:41 -- Geri butonuna ikinci defa tiklandi
+h2021-12-08 21:36:44 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:48 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:48 INFO  BaseTest:23 -- 36 beden secildi
+h2021-12-08 21:36:52 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h2021-12-08 21:36:52 INFO  BaseTest:28 -- Sepete ekle butonuna tiklandi
+h2021-12-08 21:36:56 INFO  BaseTest:16 -- 4saniye bekledi !!!!
+h
